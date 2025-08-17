@@ -189,18 +189,3 @@ docker-compose down --rmi all
 # Start fresh
 docker-compose up -d
 ```
-
-## 📚 Learning Resources
-
-- [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
-- [KafkaJS Documentation](https://kafkajs.github.io/)
-- [Socket.IO Documentation](https://socket.io/docs/)
-- [React Documentation](https://reactjs.org/docs/)
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is licensed under the MIT License. 
